@@ -12,3 +12,7 @@
 [![Gwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmagnenat&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=gmagnenat&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=gmagnenat&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages and tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
