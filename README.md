@@ -34,6 +34,9 @@
                 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             </td>
             <td width="80px" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+            </td>
+            <td width="80px" align="center">
                 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
             </td>
             <td width="80px" align="center">
