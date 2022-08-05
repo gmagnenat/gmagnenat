@@ -5,4 +5,4 @@
 - 💬 Ask me about anything related to web development
 - 📫 How to reach me: @magnenatg on twitter
 
-  [![Gwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmagnenat)](https://github.com/anuraghazra/github-readme-stats)
+  [![Gwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmagnenat&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
