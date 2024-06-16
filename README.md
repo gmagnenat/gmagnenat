@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning css custom properties and sass
-- 👯 I’m looking to collaborate on projects in need of css help
+- 🌱 I’m currently learning accessibility best practices.
+- 👯 I’m looking to collaborate on projects in need of html and css help.
 - 💬 Ask me about anything related to web development
 
 ### Connect with me
