@@ -17,47 +17,51 @@ Accessibility Advocate & Web Dev. Years of web dev experience fuel my passion fo
 ### Languages and tools
 
 <table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-                <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-            </td>
-            <td width="80px" align="center">
-                <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-            </td>
-            <td width="80px" align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-            </td>
-              <td width="80px" align="center">
-                <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-            </td>
-            <td width="80px" align="center">
-                <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-            </td>
-            <td width="80px" align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-            </td>
-            <td width="80px" align="center">
-                <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-            </td>
-            <td width="80px" align="center">
-                <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
-            </td>
-            <td width="80px" align="center">
-                <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg" />
-            </td>
-            <td width="80px" align="center">
-                <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-            </td>
-            <td width="80px" align="center">
-                <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-            </td>
-            <td width="80px" align="center">
-                <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-            </td>
-            <td width="80px" align="center">
-                <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-            </td>
-        </tr>
-    </tbody>
+  <tbody>
+    <tr>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="320px">
+  <tbody>
+    <tr>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+      </td>
+    </tr>
+  </tbody>
 </table>
