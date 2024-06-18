@@ -2,8 +2,8 @@
 ### A passionate _Web Developer_ based in Switzerland
 Accessibility Advocate & Web Dev. Years of web dev experience fuel my passion for crafting inclusive solutions with modern tools. I love sharing my knowledge to empower others and build a more inclusive digital future.
 
-- 🌱 I’m currently learning accessibility best practices and enhancing my skills on [frontendmentor.io](https://frontendmentor.io)
-- 👯 I’m looking to collaborate on projects in need of html and css help.
+- 🌱 Continuously learning accessibility best practices and enhancing my skills on [frontendmentor.io](https://frontendmentor.io)
+- 👯 Looking to join a development team who take accessibility matters in consideration
 - 💬 Ask me about anything related to web development
 
 ### Connect with me
