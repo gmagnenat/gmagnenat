@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Gwenaël
 ### A passionate _Web Developer_ based in Switzerland
-Accessibility Advocate & Web Dev. Years of web dev experience fuel my passion for crafting inclusive solutions with modern tools. I share my knowledge to empower others and build a more inclusive digital future.
+Accessibility Advocate & Web Dev. Years of web dev experience fuel my passion for crafting inclusive solutions with modern tools. I love sharing my knowledge to empower others and build a more inclusive digital future.
 
 - 🌱 I’m currently learning accessibility best practices and enhancing my skills on [frontendmentor.io](https://frontendmentor.io)
 - 👯 I’m looking to collaborate on projects in need of html and css help.
