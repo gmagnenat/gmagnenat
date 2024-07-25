@@ -4,7 +4,7 @@ Accessibility Advocate & Web Dev. Years of web dev experience fuel my passion fo
 
 - 🌱 Continuously learning accessibility best practices and enhancing my skills on [frontendmentor.io](https://frontendmentor.io)
 - 👯 Looking to join a development team that take accessibility matters in consideration
-- 💬 Ask me about anything related to web development
+- 💬 Ask me about anything related to web development and how you can improve your skills by learning accessibility best practices
 
 ### Connect with me
 
